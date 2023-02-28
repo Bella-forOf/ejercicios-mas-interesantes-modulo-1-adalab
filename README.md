@@ -5,7 +5,9 @@
 Enunciados:
 
 - **Flex y flex direction 3.1**
+
   OBJETIVO:
+  
   Crear un contenedor flex de 500px por 500px y con 6 o más elementos.
   Hacer que se distribuyan en horizontal o vertical
   Indicar cuál es el eje principal
@@ -13,7 +15,9 @@ Enunciados:
 ---
 
 - **Crear página con FlexBox 3.6**
+
   OBJETIVO:
+  
   "meter img"
   Convertir la imagen anterior a código usando HTML y CSS y lo que habéis aprendido hoy de Flexbox. Los requisitos son los siguientes:
   Las medidas tienen que ser relativas, es decir, los elementos de la página deben adaptarse al ancho de la ventana del navegador web. Si el tamaño de la ventana aumenta, el tamaño de los elementos debe aumentar.
@@ -23,7 +27,9 @@ Enunciados:
 ---
 
 - **Otra página con Flexbox 3.7**:
+
   OBJETIVO:
+  
   Convertir la imagen anterior a código usando HTML y CSS y lo que habéis aprendido hoy de Flexbox. Los requisitos son los siguientes:
   En este caso si el tamaño de la ventana aumenta solo aumentará el tamaño del bloque central, el bloque gris de la izquierda y el grupo que compone la puntuación, texto y estrella de la derecha siempre tendrán el mismo tamaño (ejemplo abajo)
   El ancho del conjunto entero debe ser del 100% con un ancho máximo de 840px. Para el bloque gris de la izquierda debéis buscar una imagen cuadrada y colocarla ahí
@@ -33,7 +39,9 @@ Enunciados:
 ---
 
 - **Otra página con Flexbox 3.7**:
+
   OBJETIVO:
+  
   Convertir la imagen anterior a código usando HTML y CSS y lo que habéis aprendido hoy de Flexbox. Los requisitos son los siguientes:
   En este caso si el tamaño de la ventana aumenta solo aumentará el tamaño del bloque central, el bloque gris de la izquierda y el grupo que compone la puntuación, texto y estrella de la derecha siempre tendrán el mismo tamaño (ejemplo abajo)
   El ancho del conjunto entero debe ser del 100% con un ancho máximo de 840px. Para el bloque gris de la izquierda debéis buscar una imagen cuadrada y colocarla ahí
@@ -43,7 +51,9 @@ Enunciados:
 ---
 
 - **Otra página con Flexbox 3.7**:
+
   OBJETIVO:
+  
   Convertir la imagen anterior a código usando HTML y CSS y lo que habéis aprendido hoy de Flexbox. Los requisitos son los siguientes:
   En este caso si el tamaño de la ventana aumenta solo aumentará el tamaño del bloque central, el bloque gris de la izquierda y el grupo que compone la puntuación, texto y estrella de la derecha siempre tendrán el mismo tamaño (ejemplo abajo)
   El ancho del conjunto entero debe ser del 100% con un ancho máximo de 840px. Para el bloque gris de la izquierda debéis buscar una imagen cuadrada y colocarla ahí
