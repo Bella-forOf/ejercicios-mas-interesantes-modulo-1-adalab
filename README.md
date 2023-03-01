@@ -45,9 +45,9 @@ Enunciados:
 
   OBJETIVO:
 
-      <img width="400px" alt="ejercicio3.7" src="https://774018087-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7DgUPj6SkDP1btgphZh9%2Fuploads%2Fgit-blob-d8261f398c87712fa45f7c8b2f952aae0ea22f1c%2Fejercicio-8-1.png?alt=media">
+ <img width="400px" alt="ejercicio3.8" src="https://774018087-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7DgUPj6SkDP1btgphZh9%2Fuploads%2Fgit-blob-d8261f398c87712fa45f7c8b2f952aae0ea22f1c%2Fejercicio-8-1.png?alt=media">
 
-       <img width="400px" alt="ejercicio3.7" src="https://774018087-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7DgUPj6SkDP1btgphZh9%2Fuploads%2Fgit-blob-0e94b1e1f1639aa06439ae11fb0137faf85e2e5d%2Fejercicio-8-2.png?alt=media">
+ <img width="400px" alt="ejercicio3.7" src="https://774018087-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7DgUPj6SkDP1btgphZh9%2Fuploads%2Fgit-blob-0e94b1e1f1639aa06439ae11fb0137faf85e2e5d%2Fejercicio-8-2.png?alt=media">
 
   Crear una página con un texto simple centrado que ocupe el 100% de la pantalla hasta un máximo de 600 píxeles. Este texto deberá tener un título, un autor y una fecha de creación organizado de la siguiente forma.
   Además deberá tener una cabecera con un fondo que ocupe toda la pantalla y un contenido que ocupe el mismo ancho que el texto. A su vez, tendrá que tener también un footer que se quede pegado en la parte inferior de la página. Cuando haya poco texto se mantendrá ahí y cuando aparezca mucho más texto se irá hacia abajo, siempre al final de la página.Es importante utilizar flexbox para los elementos del header de la página y el footer
@@ -110,7 +110,7 @@ Para esto usad box-sizing: border-box;
 
   OBJETIVO:
 
-    <img width="400px" alt="ejercicio3.7" src="https://774018087-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7DgUPj6SkDP1btgphZh9%2Fuploads%2Fgit-blob-6f70153a2e8afb0f4affc3548a8124357aa7396f%2F1_5_ejercicio_12_muestra.png?alt=media">
+<img width="400px" alt="ejercicio3.7" src="https://774018087-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7DgUPj6SkDP1btgphZh9%2Fuploads%2Fgit-blob-6f70153a2e8afb0f4affc3548a8124357aa7396f%2F1_5_ejercicio_12_muestra.png?alt=media">
 
   Crea una composición similar. Las dimensiones de esta composición serían las siguientes:
   El body tendrá un borde de 8px
@@ -155,7 +155,7 @@ Un texto para indicar que el sitio web usa cookies con un enlace para ver más i
 
   OBJETIVO:
 
-      <img width="400px" alt="ejercicio3.7" src="https://774018087-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7DgUPj6SkDP1btgphZh9%2Fuploads%2Fgit-blob-2a01f56fb82c5434d2cddcd9c513c21271d49067%2Fejercicio-8-3.png?alt=media">
+<img width="400px" alt="ejercicio3.7" src="https://774018087-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7DgUPj6SkDP1btgphZh9%2Fuploads%2Fgit-blob-2a01f56fb82c5434d2cddcd9c513c21271d49067%2Fejercicio-8-3.png?alt=media">
 
   Vamos a continuar desde el ejercicio 8 de la lección de flexbox y vamos a añadir una modal.
   Crearemos un elemento que se superponga sobre él. Ese elemento tendrá un fondo oscuro transparente y un div en su interior. Ese div entero estará centrado tanto vertical como horizontalmente y contendrá un titular, un texto y un par de botones. El resultado debe ser similar a la siguiente imagen. En la imagen, es importante observar que la cabecera estará por debajo de la ventana emergente.
@@ -186,7 +186,6 @@ Un texto para indicar que el sitio web usa cookies con un enlace para ver más i
 
   OBJETIVO:
 
- <img width="400px" alt="https://774018087-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7DgUPj6SkDP1btgphZh9%2Fuploads%2Fgit-blob-19a8ec6a75ba330eb77d4f6dacfcfe3c2d615c9b%2Fejercicio-7.png?alt=media">
 
 Vamos a hacer algo más "real" y probamos a implementar esta "columna central". En un HTML tendremos un contenedor con:
 Un título
