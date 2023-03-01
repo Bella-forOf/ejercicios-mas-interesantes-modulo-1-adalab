@@ -182,7 +182,7 @@ Un texto para indicar que el sitio web usa cookies con un enlace para ver más i
 
 ---
 
-- ** Implementa una columna central 5.5**:
+- **Implementa una columna central 5.5**:
 
   OBJETIVO:
 
